@@ -1,0 +1,1 @@
+export const userProperties = ['id', 'name', 'age', 'email', 'country', 'company', 'birthday'];

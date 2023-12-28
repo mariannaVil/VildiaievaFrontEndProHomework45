@@ -1,0 +1,1 @@
+(()=>{"use strict";const s=new class{constructor(s,t){this.a=s,this.b=t}add(){return this.a+this.b}sub(){return this.a-this.b}div(){return this.a/this.b}mult(){return this.a*this.b}}(25,10);console.log(s.add()),console.log(s.sub()),console.log(s.div()),console.log(s.mult())})();
